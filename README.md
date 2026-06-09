@@ -1,12 +1,7 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mooi-liner&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/mooi-liner?pet-id=852106693943371296"
-    width="1000"
-    height="150"
-  />
-  <img
-    src="https://render.gitanimals.org/lines/mooi-liner?pet-id=852106771999365192"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mooi-liner&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/mooi-liner"
+  width="600"
+  height="300"
+/>
 </a>
